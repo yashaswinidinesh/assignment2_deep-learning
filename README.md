@@ -8,7 +8,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 1. NumPy Foundations for Deep Learning
 - **Notebook:** `1_numpy_foundations_for_deep_learning.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/vh_MnsBxm6E)
+- **Video:** [Watch on video](https://sjsu0-my.sharepoint.com/:v:/g/personal/yashaswini_dinesh_sjsu_edu/IQDfkbdIym0ZQ4r35c1xYOh8Aa1amwhgnDDO0bevOz-gWqs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wNFTDl)
 - **Topics:** Array creation, matrix multiplication, broadcasting, indexing, linear algebra basics with NumPy
 
 ---
