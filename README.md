@@ -15,7 +15,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 2. PyTorch Tensors — From Zero to Hero
 - **Notebook:** `2_pytorch_tensors_from_zero_to_hero.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/NrLMoGOc_5I)
+- **Video:** [Watch on YouTube](https://youtu.be/6fSNeE12880)
 - **Topics:** Tensor creation and attributes, GPU operations, einsum notation, autograd fundamentals
 
 ---
