@@ -22,7 +22,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 3. TensorFlow Tensor Operations Tutorial
 - **Notebook:** `3_tensorflow_tensor_operations_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/zb7nfhSJl7o)
+- **Video:** [Watch on YouTube](https://youtu.be/OJIZ67i3OD8)
 - **Topics:** TensorFlow tensors, broadcasting rules, einsum operations, comparison with NumPy
 
 ---
