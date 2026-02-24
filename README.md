@@ -71,7 +71,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 10. Why Deep Learning Works — Geometric Intuition
 - **Notebook:** `10_why_deep_learning_works_geometric_intuition.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/gpMSvRfdy9E)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1B9-PF0zeoIFZSX5H-ZHNezCTXYGjVaC2/view?usp=sharing)
 - **Topics:** Universal approximation theorem, ReLU as space folding, decision boundary visualization, deep vs. wide networks
 
 ---
