@@ -43,7 +43,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 6. Probability Fundamentals for Deep Learning
 - **Notebook:** `6_probability_fundamentals_for_deep_learning.ipynb`
-- **Video:** [Watch on YouTube](https://drive.google.com/file/d/15X9F2N04D0c-LL80-Ob6agPJS33LqbqR/view?usp=drive_link)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/15x4vrK-hKMm5BusGQSAHz5-ULUgQOkWz/view?usp=sharing)
 - **Topics:** Probability basics, softmax, cross-entropy loss, entropy, Bayes' theorem applied to neural networks
 
 ---
