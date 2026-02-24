@@ -85,7 +85,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 12. PyTorch Advanced Tutorial
 - **Notebook:** `12_pytorch_advanced_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/gYOVdy2A_28)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1Z4uNCV1lf04FfJgp4xieZbn3jKUNBQlA/view?usp=sharing)
 - **Topics:** Custom autograd functions, hooks, Jacobian/Hessian, spectral normalization, transformer building blocks
 
 ---
