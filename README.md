@@ -99,7 +99,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 14. Keras & TensorFlow Advanced Tutorial
 - **Notebook:** `14_keras_tensorflow_advanced_tutorial.ipynb`
-- **Video:** [Watch on YouTube](<!-- ADD YOUR VIDEO LINK HERE -->)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/19O_9b_Gjmia5bIXIpv4ukEgKrzEYbygk/view?usp=sharing)
 - **Topics:** Custom gradients, convolution layers from scratch, attention mechanisms, residual blocks
 
 ---
