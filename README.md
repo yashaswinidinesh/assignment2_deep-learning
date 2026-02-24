@@ -36,7 +36,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 5. Calculus for Deep Learning
 - **Notebook:** `5_calculus_for_deep_learning.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/0fK4RL6a6ic)
+- **Video:** [Watch on YouTube](https://youtu.be/zqxdF_21JBE)
 - **Topics:** Derivatives and gradients, chain rule, backpropagation step-by-step, the training loop
 
 ---
