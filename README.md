@@ -92,7 +92,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 13. Keras & TensorFlow Neural Networks Tutorial
 - **Notebook:** `13_keras_tensorflow_neural_networks_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/UN6jNuR0cqM)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/17R05047eqiOiaGzJN_TJfpGv7WzQ2P8I/view?usp=sharing)
 - **Topics:** Keras Sequential, Functional & Subclass APIs, GradientTape, full training pipeline
 
 ---
