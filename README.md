@@ -57,7 +57,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 8. Linear Algebra for Deep Learning
 - **Notebook:** `8_linear_algebra_for_deep_learning.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/1MtUynlYav8)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1GL4zh0Ldd2IsvEw0kX3o3rJANlty1BuQ/view?usp=sharing)
 - **Topics:** Vectors & matrices, dot products, norms, eigenvalues/eigenvectors, attention mechanism foundations
 
 ---
