@@ -50,7 +50,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 7. Probability for Deep Learning
 - **Notebook:** `7_probability_for_deep_learning.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/VPvnuIi-z7o)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/15X9F2N04D0c-LL80-Ob6agPJS33LqbqR/view?usp=sharing)
 - **Topics:** Expected value, common distributions, KL divergence, VAE reparameterization trick
 
 ---
