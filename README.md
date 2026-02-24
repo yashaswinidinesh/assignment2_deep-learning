@@ -78,7 +78,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 11. PyTorch Neural Networks Tutorial
 - **Notebook:** `11__pytorch_neural_networks_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/tEZchLR2bJc)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1nMRlDlnYovxMv6-k6OnmSqV37LZlnM7u/view?usp=sharing)
 - **Topics:** `nn.Module`, autograd in practice, full training loops, loss functions, einsum in PyTorch
 
 ---
