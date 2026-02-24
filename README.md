@@ -29,7 +29,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 4. JAX Deep Learning Tutorial
 - **Notebook:** `4_jax_deep_learning_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/s5eIk5Z4GCU)
+- **Video:** [Watch on YouTube](https://youtu.be/kj5-jYy3S3U)
 - **Topics:** JAX fundamentals, functional programming style, immutable arrays, PRNG, `jit`, `grad`, `vmap` transformations
 
 ---
