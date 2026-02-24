@@ -64,7 +64,7 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 9. Neural Networks from Scratch
 - **Notebook:** `9_neural_networks_from_scratch.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/flydJXj3Ta0)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1edPRWaG1rW3u7k98aOCn2_NImXSjrI8T/view?usp=sharing)
 - **Topics:** Building a full neural network using only NumPy, forward pass, backpropagation, SGD & Adam optimizer
 
 ---
