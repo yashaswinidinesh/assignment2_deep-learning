@@ -106,21 +106,21 @@ A comprehensive series of **17 Jupyter notebooks** covering deep learning from t
 
 ### 15. NumPy Foundations — Extended
 - **Notebook:** `15_numpy_foundations_for_deep_learning.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/vh_MnsBxm6E)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1Z4uNCV1lf04FfJgp4xieZbn3jKUNBQlA/view?usp=sharing)
 - **Topics:** Extended NumPy concepts, advanced indexing, matrix multiplication deep dive for neural networks
 
 ---
 
 ### 16. JAX Deep Learning Tutorial (Advanced)
 - **Notebook:** `16_colab_5_jax_deep_learning_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/s5eIk5Z4GCU)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/17R05047eqiOiaGzJN_TJfpGv7WzQ2P8I/view?usp=sharing)
 - **Topics:** Advanced JAX operations, `vmap` for batching, `jit` compilation internals, neural network implementation
 
 ---
 
 ### 17. JAX Neural Networks Tutorial (Flax & Optax)
 - **Notebook:** `17_colab_4_jax_neural_networks_tutorial.ipynb`
-- **Video:** [Watch on YouTube](https://youtu.be/DsfTCcHuUtg)
+- **Video:** [Watch on YouTube](https://drive.google.com/file/d/1B9-PF0zeoIFZSX5H-ZHNezCTXYGjVaC2/view?usp=sharing)
 - **Topics:** Flax neural network modules, Optax optimizers, full JAX training loop, einsum patterns, NumPy vs JAX vs Flax comparison
 
 ---
